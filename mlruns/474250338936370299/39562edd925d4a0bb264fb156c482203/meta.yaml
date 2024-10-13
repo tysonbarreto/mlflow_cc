@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474250338936370299/39562edd925d4a0bb264fb156c482203/artifacts
+end_time: 1728854315963
+entry_point_name: ''
+experiment_id: '474250338936370299'
+lifecycle_stage: active
+run_id: 39562edd925d4a0bb264fb156c482203
+run_name: gentle-lynx-680
+run_uuid: 39562edd925d4a0bb264fb156c482203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728854291875
+status: 3
+tags: []
+user_id: Tyson

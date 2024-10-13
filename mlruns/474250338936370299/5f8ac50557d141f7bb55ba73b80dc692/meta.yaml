@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474250338936370299/5f8ac50557d141f7bb55ba73b80dc692/artifacts
+end_time: 1728856054950
+entry_point_name: ''
+experiment_id: '474250338936370299'
+lifecycle_stage: active
+run_id: 5f8ac50557d141f7bb55ba73b80dc692
+run_name: debonair-wasp-802
+run_uuid: 5f8ac50557d141f7bb55ba73b80dc692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728856045563
+status: 3
+tags: []
+user_id: Tyson
